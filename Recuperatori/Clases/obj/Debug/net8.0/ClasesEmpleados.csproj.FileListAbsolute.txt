@@ -1,0 +1,11 @@
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\bin\Debug\net8.0\ClasesEmpleados.deps.json
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\bin\Debug\net8.0\ClasesEmpleados.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\bin\Debug\net8.0\ClasesEmpleados.pdb
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.AssemblyInfoInputs.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.AssemblyInfo.cs
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\refint\ClasesEmpleados.dll
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ClasesEmpleados.pdb
+C:\Users\ivopa\Desktop\Nueva carpeta\Recuperatorio\Recuperatori\Clases\obj\Debug\net8.0\ref\ClasesEmpleados.dll
